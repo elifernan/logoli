@@ -1,0 +1,44 @@
+**Plano de Escopo para o Projeto Geradora de Logotipos Baseada em Logotipos Famosos**
+
+**Declaração do Objetivo do Projeto:**
+O objetivo deste projeto é desenvolver uma plataforma online que permita aos usuários criar logotipos personalizados baseados em logotipos famosos. A plataforma será intuitiva e fornecerá uma ampla variedade de opções de personalização, permitindo que os usuários criem logotipos únicos que atendam às suas necessidades de branding.
+
+**Requisitos do Projeto:**
+
+**Requisitos Funcionais:**
+1. Os usuários devem poder escolher entre uma seleção de logotipos famosos como base para sua criação.
+2. Deve haver opções de personalização para cores, fontes, elementos gráficos e texto.
+3. A plataforma deve fornecer ferramentas de edição intuitivas para ajustar o logotipo.
+4. Os logotipos gerados devem estar disponíveis em diferentes formatos de arquivo para download.
+5. Deve haver integração com redes sociais para compartilhar os logotipos criados.
+6. Um sistema de pagamento seguro deve ser implementado para acessar recursos premium.
+
+**Requisitos Não Funcionais:**
+1. A plataforma deve ser responsiva e compatível com dispositivos móveis.
+2. Deve ser altamente disponível e ter tempos de resposta rápidos.
+3. Deve ser fácil de usar, mesmo para usuários sem experiência em design gráfico.
+4. Deve manter a confidencialidade dos dados do usuário e garantir a segurança das informações.
+
+**Entregas do Projeto:**
+1. Plataforma web funcional para criação de logotipos.
+2. Banco de dados de logotipos famosos.
+3. Opções de personalização para cores, fontes e elementos gráficos.
+4. Sistema de edição de logotipos.
+5. Opções de download em diferentes formatos.
+6. Integração com redes sociais.
+7. Sistema de pagamento implementado.
+
+**Limites do Projeto:**
+1. A criação de logotipos totalmente originais não está incluída no escopo.
+2. Não haverá suporte para impressão de logotipos físicos.
+3. Não serão fornecidos serviços de consultoria em design.
+
+**Cronograma do Projeto:**
+O projeto será dividido em fases, incluindo pesquisa de mercado, desenvolvimento da plataforma, teste e implementação. O cronograma detalhado será desenvolvido durante o planejamento do projeto.
+
+**Recursos do Projeto:**
+1. Equipe de desenvolvimento de software, incluindo designers gráficos e programadores.
+2. Acesso a logotipos famosos licenciados.
+3. Servidores e infraestrutura de hospedagem.
+4. Software de design gráfico.
+5. Equipe de marketing.
